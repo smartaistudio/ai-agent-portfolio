@@ -1,6 +1,8 @@
 # 🧠 AI Agent Portfolio
 
-Welcome to my collection of AI-powered tools designed to streamline content creation, research, and information processing. Each agent is crafted to solve specific productivity challenges and enhance your digital workflow.
+Hi, I’m Peter Lowe — a marketer and AI evangelist who blends curiosity, creativity, and technical know-how to build practical AI agents. My passion lies in turning ideas into tools that make work easier, smarter, and more impactful.
+
+This collection showcases my AI-powered agents, each designed to streamline content creation, simplify research, and transform information into action. Every agent solves a real productivity challenge, helping you focus on what truly matters.
 
 ---
 
