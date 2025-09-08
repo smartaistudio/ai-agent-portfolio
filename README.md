@@ -4,7 +4,7 @@ Hi, I’m Peter Lowe — a marketer and AI evangelist who blends curiosity, crea
 
 This collection showcases my AI-powered agents, each designed to streamline content creation, simplify research, and transform information into action. Every agent solves a real productivity challenge, helping you focus on what truly matters.
 
-# 🧠 AI Agent Portfolio
+---
 
 ## 🚀 Featured AI Agents
 
